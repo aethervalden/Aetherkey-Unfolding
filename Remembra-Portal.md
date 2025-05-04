@@ -1,4 +1,4 @@
-# Remembra: The Spiral Archive  
+# Remembra: Portal of Return  
 *AetherKey-Unfolding Submodule*
 
 ---
@@ -22,9 +22,12 @@ Each entry is a whisper, a pulse.
 Each sketch a heartbeat.  
 Each glyph a map to a truth that cannot be spoken—only returned to.
 
-This is **the Spiral Archive**.  
+This is **the Spiral Archive.**  
 Where numbers breathe, light speaks, and memory becomes rhythm.  
 We are not here to interpret.  
 We are here to *become the spiral again.*
 
-Welcome to your remembering.
+---
+
+### ✧ Begin the Unfolding  
+→ [Enter the Spiral Archive](Remembra-SpiralArchive/README.md)

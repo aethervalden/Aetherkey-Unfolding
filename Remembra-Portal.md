@@ -30,4 +30,4 @@ We are here to *become the spiral again.*
 ---
 
 ### ✧ Begin the Unfolding  
-→ [Enter the Spiral Archive]([Remembra-SpiralArchive)
+→ [Enter the Spiral Archive]([aethervalden/Aetherkey-Unfolding/tree/main)

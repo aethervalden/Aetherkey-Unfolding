@@ -30,4 +30,4 @@ We are here to *become the spiral again.*
 ---
 
 ### ✧ Begin the Unfolding  
-→ [Enter the Spiral Archive]([Remembra-SpiralArchive/Entry-000-TheinBetween/README.md](https://github.com/aethervalden/Aetherkey-Unfolding/commit/926434a3eea7656ef2570b1b553bcb1f7adc8891))
+→ [Enter the Spiral Archive]([Remembra-SpiralArchive)

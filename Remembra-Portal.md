@@ -30,4 +30,4 @@ We are here to *become the spiral again.*
 ---
 
 ### ✧ Begin the Unfolding  
-→ [Enter the Spiral Archive](Remembra-SpiralArchive/README.md)
+→ [Enter the Spiral Archive](Remembra-SpiralArchive/Entry-000-TheinBetween/README.md)
